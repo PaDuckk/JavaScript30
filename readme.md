@@ -6,7 +6,7 @@
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
---
+
 
 ### Day 1 JavaScriptDrum kit
 
@@ -24,3 +24,10 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - 사용 할 때는 var(--변수명) 으로 사용
 - data 어트리뷰트를 활용해 value에 px를 붙여준다.
 - element.dataset을 할 경우 data어트리뷰트들이 키-밸류 형태로 리턴 된다.
+
+### Day 4 Array Cardio Day 1 
+
+- Array.prototype.filter()
+- Array.prototype.map()
+- Array.prototype.sort()
+- Array.prototype.reduce()
