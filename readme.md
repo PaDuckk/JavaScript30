@@ -31,3 +31,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Array.prototype.map()
 - Array.prototype.sort()
 - Array.prototype.reduce()
+
+### Day 6 Type Ahead
+
+- Fetch API
+- regExp
+- onkeyup, onchange
