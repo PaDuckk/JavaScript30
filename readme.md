@@ -37,3 +37,10 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Fetch API
 - regExp
 - onkeyup, onchange
+
+### Day 7 Array cardio Day 2
+
+- Array.prototype.some()
+- Array.prototype.every()
+- Array.prototype.find()
+- Array.prototype.findInedx()
