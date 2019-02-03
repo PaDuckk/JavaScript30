@@ -44,3 +44,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Array.prototype.every()
 - Array.prototype.find()
 - Array.prototype.findInedx()
+
+### Day 8 Fun with HTML 5 Canvas
+
+- canvas
