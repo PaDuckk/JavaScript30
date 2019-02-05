@@ -50,9 +50,12 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - canvas
 
 ### Day 9 Dev Tools Domination
+
 - console.log('%C text', 'style');
 - console.time();
 - console.table();
 - console.count();
 - console.group
 - console.error(), console.warn(), console.info();
+
+### Day 10 Hold shift and Check Checkboxes
