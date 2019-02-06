@@ -59,3 +59,6 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - console.error(), console.warn(), console.info();
 
 ### Day 10 Hold shift and Check Checkboxes
+
+
+### Day 12 key Sequence Detection
