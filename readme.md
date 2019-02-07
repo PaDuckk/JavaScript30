@@ -43,7 +43,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Array.prototype.some()
 - Array.prototype.every()
 - Array.prototype.find()
-- Array.prototype.findInedx()
+- Array.prototype.findIndex()
 
 ### Day 8 Fun with HTML 5 Canvas
 
@@ -62,3 +62,10 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 
 ### Day 12 key Sequence Detection
+
+### Day 13 Slide in on Scroll
+- window.scrollY
+- window.innerHeight
+- el.offsetTop
+- el.height
+- debounce()
