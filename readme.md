@@ -69,3 +69,10 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - el.offsetTop
 - el.height
 - debounce()
+
+### Day 15 LocalStorage and Event delegation
+
+- e.preventDefault() (IE 미지원)  e.preventDefault ? e.preventDefault() : (e.returnValue = false); 
+- 이벤트 delegation
+    부모 element에 event를 걸어 자식 el 에서 이벤트를 전달 하는 방식
+    동적으로 추가되는 el은 추가될 때마다 event를 걸어주어야 하지만 부모 el에 이벤트를 걸은후 이벤트 타겟을 분석 하여 핸들링 하는 패턴
