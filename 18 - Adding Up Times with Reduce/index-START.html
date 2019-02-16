@@ -184,30 +184,18 @@
 <script>
   const liList = [...document.querySelectorAll('[data-time]')];
 
-  liList.map(node => node.dataset.time)
+  let totalSecond = liList.map(node => node.dataset.time)
         .map(timeCode => {
           const [min, secs] = timeCode.split(':').map(parseFloat);
           return min*60 + secs;
         })
         .reduce((max,curr) => max + curr);
 
-  console.log(liList);
+  const hour = Math.floor(totalSecond / 3600);
+  const minute = Math.floor((totalSecond % 3600) / 60);
+  const second = totalSecond % 60;
   
-  let result = arr.reduce(function(acc, curr){
-    let timeArr = (curr.dataset.time).split(':');
-    acc[0]+= Number(timeArr[0]);
-    acc[1]+= Number(timeArr[1]);
-    return acc;
-  },[0 ,0]);
-
-  let overMin = result[1] / 60
-  let second = Math.floor(result[1] % 60);
-  
-  let hour = Math.floor((result[0] + overMin) / 60);
-  let minute = Math.floor((result[0] + overMin) % 60);
-
   console.log(hour, minute, second);
-  
 </script>
 </body>
 </html>
