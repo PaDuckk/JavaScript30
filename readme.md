@@ -83,3 +83,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - regExp
 - Array.prototype.join()
 - Array.prototype.map()
+
+### Day 20 Follow Along Link Highlight
+
+- Implementation of moving and highlighting using other HTML Element
+- Use **getBoundingClientRect()** to get the position at which the cursor is entered
