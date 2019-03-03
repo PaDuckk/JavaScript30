@@ -88,3 +88,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 - Implementation of moving and highlighting using other HTML Element
 - Use **getBoundingClientRect()** to get the position at which the cursor is entered
+
+### Day 23 Speech Synthesis
+
+- Using SpeechSynthesis API
+  speechSynthsis is property of window object. when using a speechSynthsis.speak() method, you must pass the SpeechSynthesisUtterance object as the first argument
