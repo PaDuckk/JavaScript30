@@ -64,6 +64,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 ### Day 12 key Sequence Detection
 
 ### Day 13 Slide in on Scroll
+
 - window.scrollY
 - window.innerHeight
 - el.offsetTop
@@ -93,3 +94,6 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 - Using SpeechSynthesis API
   speechSynthsis is property of window object. when using a speechSynthsis.speak() method, you must pass the SpeechSynthesisUtterance object as the first argument
+
+### Day 24 Fixed Nav
+
