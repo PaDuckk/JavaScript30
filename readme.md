@@ -97,3 +97,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ### Day 24 Fixed Nav
 
+### Day 25 Event Capture, Propagagion, Bubbling
+
+### Day 26 Stripe Follow Along Nav
+
+- Use display: none and opaicty to differentiate the view point of the content and the background of the drop-down menu.
+- Calibrate positon when parent element's positon property is relative
