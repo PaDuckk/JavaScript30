@@ -103,3 +103,5 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 - Use display: none and opaicty to differentiate the view point of the content and the background of the drop-down menu.
 - Calibrate positon when parent element's positon property is relative
+
+### Day29 Countdown Timer
